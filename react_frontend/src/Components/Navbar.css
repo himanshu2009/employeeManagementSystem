@@ -1,0 +1,22 @@
+.Navcontainer{
+    height: 7vh;
+    background-color: orchid;
+    width: 100vw;
+}
+
+ul{
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    align-items: center;
+    height: 6vh;
+}
+
+ li a{
+    color:white;
+    text-decoration: none;
+
+
+}
+
+ 
